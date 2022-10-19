@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="type">
+        <item>String</item>
+        <item>Int</item>
+        <item>Long</item>
+        <item>Boolean</item>
+        <item>Float</item>
+        <item>Double</item>
+    </string-array>
+
+    <string name="app_name">DataStore</string>
+    <string name="hint_input">輸入</string>
+    <string name="hint_output">輸出</string>
+    <string name="hint_type">請選擇型別</string>
+    <string name="hint_save">儲存</string>
+    <string name="hint_call">呼叫</string>
+    <string name="hint_clear">清空</string>
+
+    <string name="output">輸出：</string>
+    <string name="input">只存放固定值</string>
+</resources>
